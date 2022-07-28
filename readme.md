@@ -1,1 +1,1 @@
-demo: https://webcrg666.github.io/WST/
+demo: https://webcrg.github.io/WST/
